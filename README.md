@@ -8,4 +8,4 @@ My first simple html & css project including :
 
 -Product carousel 
 
--minimalist and dark color scheme
+-Minimalist and dark color scheme
